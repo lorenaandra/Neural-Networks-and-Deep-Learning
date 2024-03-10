@@ -2,7 +2,7 @@
 
 ## Week 1
 ### Analyze the major trends driving the rise of deep learning, and give examples of where and how it is applied today.
-**Learning Objectives**
+### **Learning Objectives**
 * Discuss the major trends driving the rise of deep learning.
 * Explain how deep learning is applied to supervised learning
 * List the major categories of models (CNNs, RNNs, etc.), and when they should be applied
@@ -10,7 +10,7 @@
 
 ## Week 2
 ### Set up a machine learning problem with a neural network mindset and use vectorization to speed up your models.
-**Learning Objectives**
+### **Learning Objectives**
 * Build a logistic regression model structured as a shallow neural network
 * Build the general architecture of a learning algorithm, including parameter initialization, cost function and gradient calculation, and optimization implemetation (gradient descent)
 * Implement computationally efficient and highly vectorized versions of models
@@ -22,7 +22,7 @@
 
 ## Week 3
 ### Build a neural network with one hidden layer, using forward propagation and backpropagation.
-**Learning Objectives**
+### **Learning Objectives**
 * Describe hidden units and hidden layers
 * Use units with a non-linear activation function, such as tanh
 * Implement forward and backward propagation
@@ -33,7 +33,7 @@
 
 ## Week 4
 ### Analyze the key computations underlying deep learning, then use them to build and train deep neural networks for computer vision tasks.
-**Learning Objectives**
+### **Learning Objectives**
 * Describe the successive block structure of a deep neural network
 * Build a deep L-layer neural network
 * Analyze matrix and vector dimensions to check neural network implementations
